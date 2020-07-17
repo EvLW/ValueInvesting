@@ -13,7 +13,7 @@ from datetime import datetime as dt
 stockpricedf = 0
 financialreportingdf =0
 discountrate=0.2
-margin = 0.15
+margin = 0.3
 
 
 # Set up the app
